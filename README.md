@@ -2,6 +2,9 @@
 Allows to expand and collapse sections of Eureka forms
 
 just drag and drop the AWSection.swift in your project and call below 
+
+![stack Overflow](http://linklyapps.in/images/eureka.gif)
+
        
        +++ AWSection().getSection(withTag: "Address", tableView: self.tableView!, expanded: true)
        
