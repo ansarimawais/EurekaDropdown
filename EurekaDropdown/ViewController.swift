@@ -84,11 +84,6 @@ class ViewController: FormViewController {
 
 
 
-//DispatchQueue.main.asyncAfter(deadline: DispatchTime.now() + .seconds(0), execute: {
-//    self.tableView?.reloadData()
-
-//})
-
     }
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int
